@@ -57,7 +57,7 @@ public class Trab {
         for(String[] dado1 : dados1){
             //dado1[0];
             int dia = Integer.parseInt(dado1[0]);
-            data3[0] = new Data()
+            //data3[0] = new Data()
             for(String dado : dado1) {
                 System.out.println(dado);
             }

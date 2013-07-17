@@ -56,9 +56,9 @@ public class leitorDeArquivos {
         return data;
     }
     
-    public int separaInteiros(String separador, String ){
+    //public int separaInteiros(String separador, String ){
         
-    }
+    //}
     
   //For smaller files
   List<String> readSmallTextFile(String aFileName) throws IOException {
